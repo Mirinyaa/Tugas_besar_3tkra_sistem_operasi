@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1640831903 "main.aux" "main.bbl" "main" 1640831907
+["bibtex main"] 1640831903 "main.aux" "main.bbl" "main" 1640832214
   "C:/Program Files/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1640831906 3254 8d89aacd6b329403b96d412fab5e0a6a "pdflatex"
+  "main.aux" 1640832213 3254 8d89aacd6b329403b96d412fab5e0a6a "pdflatex"
   "references.bib" 1640831771 6287 96963ed2d8b098a4937683dc990939a3 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1640831903 "c:/Tugas_besar_3tkra_sistem_operasi/main.tex" "main.pdf" "main" 1640831907
+["pdflatex"] 1640832210 "c:/Tugas_besar_3tkra_sistem_operasi/main.tex" "main.pdf" "main" 1640832214
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136747054 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb8r.tfm" 1136747054 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -67,10 +67,10 @@
   "C:/Program Files/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/LENOVO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1640763293 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/LENOVO/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1640763317 9760114 29b13898d2a9acd5f783c1fb80a6d1a2 ""
-  "c:/Tugas_besar_3tkra_sistem_operasi/main.tex" 1640830497 19069 91febeccfd946b993198996292e90b55 ""
-  "main.aux" 1640831906 3254 8d89aacd6b329403b96d412fab5e0a6a "pdflatex"
+  "c:/Tugas_besar_3tkra_sistem_operasi/main.tex" 1640832206 19079 1d16af6a337e20912436d36a1317120a ""
+  "main.aux" 1640832213 3254 8d89aacd6b329403b96d412fab5e0a6a "pdflatex"
   "main.bbl" 1640831903 4114 8e08188552faeef983fe28970bb16600 "bibtex main"
-  "main.tex" 1640830497 19069 91febeccfd946b993198996292e90b55 ""
+  "main.tex" 1640832206 19079 1d16af6a337e20912436d36a1317120a ""
   "pic1.jpg" 1640827689 38438 b37f4f36957342b7638e69740198d1f5 ""
   "pic2.jpg" 1640827689 289253 60d443dc827b89487e80c6ef42d71443 ""
   (generated)
